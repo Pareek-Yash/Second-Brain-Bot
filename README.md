@@ -46,7 +46,7 @@ pip install jupyter openai
 1. Clone this repository:
 
     ```sh
-    git clone https://github.com/your-username/Second-Brain-Bot.git
+    git clone https://github.com/pareek-yash/Second-Brain-Bot.git
     cd Second-Brain-Bot
     ```
 
